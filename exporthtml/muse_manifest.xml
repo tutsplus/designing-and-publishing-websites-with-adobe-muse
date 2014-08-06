@@ -1,0 +1,107 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406534709408">
+  <folder name="css">
+    <file name="site_global.css" crc="3827977393"/>
+    <file name="master_a-master.css" crc="140657044" ref="motion:ex1:contact:shop:focus:index:visit-us:ex2"/>
+    <file name="motion.css" crc="250780485" ref="motion"/>
+    <file name="iefonts_motion.css" crc="369591060" ref="motion"/>
+    <file name="ex1.css" crc="602229" ref="ex1"/>
+    <file name="contact.css" crc="68273665" ref="contact"/>
+    <file name="shop.css" crc="264624670" ref="shop"/>
+    <file name="focus.css" crc="3788790299" ref="focus"/>
+    <file name="index.css" crc="386136102" ref="index"/>
+    <file name="visit-us.css" crc="237943030" ref="visit-us"/>
+    <file name="ex2.css" crc="102900130" ref="ex2"/>
+  </folder>
+  <folder name="assets">
+    <folder name="wind2">
+      <folder name="edge_includes">
+        <file name="edge.4.0.0.min.js" crc="4231652741" mt="1406123081000"/>
+        <file name="jquery-2.0.3.min.js" crc="155013199" mt="1406123081000"/>
+      </folder>
+      <folder name="images">
+        <file name="geese.png" crc="37744985" mt="1406123081000"/>
+        <file name="icon.png" crc="4259273145" mt="1406123081000"/>
+        <file name="Poster.png" crc="4259273145" mt="1406123081000"/>
+        <file name="stick.svg" crc="3764418037" mt="1406123081000"/>
+        <file name="wings.svg" crc="3821318599" mt="1406123081000"/>
+      </folder>
+      <file name="wind2_edge.js" crc="226940922" mt="1406123081000"/>
+      <file name="wind2_edgeActions.js" crc="154172649" mt="1406123081000"/>
+      <file name="wind2_edgePreload.js" crc="4251041494" mt="1406123081000"/>
+      <file name="wind2.html" crc="95815819" mt="1406123081000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="museutils.js" crc="353204447" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index:ex1:motion"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="webpro.js" crc="317917375" ref="focus:visit-us:ex1:ex2:motion:contact"/>
+    <file name="musewpdisclosure.js" crc="4003881138" ref="focus:visit-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="ex1:motion"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="ex1:ex2:motion"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="ex1:ex2:motion"/>
+    <file name="touchswipe.js" crc="367691663" ref="ex1:ex2:motion"/>
+    <file name="jquery.scrolleffects.js" crc="4083300337" ref="motion"/>
+  </folder>
+  <folder name="images">
+    <file name="logomuseum.png" crc="4244363714" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="logo_twitter.png" crc="292479519" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="patternsmall.jpg" crc="423899428" ref="index:motion"/>
+    <file name="expo2.jpg" crc="273650514" ref="index"/>
+    <file name="pictureexpo.jpg" crc="3954052486" ref="index:motion"/>
+    <file name="logofooter.png" crc="126871799" ref="index:focus:shop:visit-us:ex1:ex2:motion:contact"/>
+    <file name="expo22.jpg" crc="4170240475" ref="focus"/>
+    <file name="flag1.png" crc="296834117" ref="focus"/>
+    <file name="cablecar-mini.jpg" crc="417617863" ref="focus"/>
+    <file name="flag2.jpg" crc="3900036041" ref="focus"/>
+    <file name="cinema.jpg" crc="321873929" ref="focus"/>
+    <file name="flag3.png" crc="3894956453" ref="focus"/>
+    <file name="cablecar.jpg" crc="3899344066" ref="shop"/>
+    <file name="header.jpg" crc="3993718107" ref="ex1"/>
+    <file name="4964979895_0708d43c26_b699x466.jpg" crc="492407673" ref="ex1"/>
+    <file name="blank.gif" crc="4208392903" ref="ex1:ex2:motion"/>
+    <file name="4964804373_8c8a4efb23_b699x466.jpg" crc="4202725258" ref="ex1"/>
+    <file name="4964731281_134472f4d1_b699x466.jpg" crc="4083589567" ref="ex1"/>
+    <file name="4965193128_33a056896f_b699x466.jpg" crc="4180323811" ref="ex1"/>
+    <file name="4965153426_d21aa9d691_b699x466.jpg" crc="3872144713" ref="ex1"/>
+    <file name="4964537563_df91851efe_b699x466.jpg" crc="4015590732" ref="ex1"/>
+    <file name="4964979895_0708d43c26_b105x70.jpg" crc="4209221128" ref="ex1"/>
+    <file name="4964804373_8c8a4efb23_b105x70.jpg" crc="3859268469" ref="ex1"/>
+    <file name="4964731281_134472f4d1_b105x70.jpg" crc="276117378" ref="ex1"/>
+    <file name="4965193128_33a056896f_b105x70.jpg" crc="3996005609" ref="ex1"/>
+    <file name="4965153426_d21aa9d691_b105x70.jpg" crc="4268296138" ref="ex1"/>
+    <file name="4964537563_df91851efe_b105x70.jpg" crc="3934546620" ref="ex1"/>
+    <file name="loading.gif" crc="3815509949" ref="ex1:ex2:motion"/>
+    <file name="4964979895_0708d43c26_b.jpg" crc="4179565041" ref="ex2"/>
+    <file name="4964804373_8c8a4efb23_b.jpg" crc="366885912" ref="ex2"/>
+    <file name="4964731281_134472f4d1_b.jpg" crc="3813396690" ref="ex2"/>
+    <file name="4965193128_33a056896f_b.jpg" crc="194705155" ref="ex2"/>
+    <file name="4965153426_d21aa9d691_b.jpg" crc="4073630175" ref="ex2"/>
+    <file name="4964537563_df91851efe_b.jpg" crc="3895796723" ref="ex2"/>
+    <file name="sky.jpg" crc="419900997" ref="motion"/>
+    <file name="cc-logo-grey.png" crc="4290221155" ref="motion"/>
+    <file name="4964537563_df91851efe_b629x420.jpg" crc="3993395874" ref="motion"/>
+    <file name="4964979895_0708d43c26_b629x420.jpg" crc="3823355562" ref="motion"/>
+    <file name="4964804373_8c8a4efb23_b629x420.jpg" crc="3991015058" ref="motion"/>
+    <file name="4964731281_134472f4d1_b629x420.jpg" crc="20133594" ref="motion"/>
+    <file name="4965193128_33a056896f_b629x420.jpg" crc="453072860" ref="motion"/>
+    <file name="4965153426_d21aa9d691_b629x420.jpg" crc="3879336325" ref="motion"/>
+    <file name="fotolia_56436567_subscription_xxl.jpg" crc="174858702" ref="contact"/>
+    <file name="u2572-17.png" crc="3794599350" ref="contact"/>
+    <file name="u2572-17-r.png" crc="28438132" ref="contact"/>
+    <file name="u2572-17-m.png" crc="254397990" ref="contact"/>
+    <file name="u2572-17-fs.png" crc="101385201" ref="contact"/>
+    <file name="captcha.png" crc="3972111057" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3834716513" mt="1406534566841" redirect="true"/>
+  <file name="focus.html" crc="3999391837" mt="1406533759424" redirect="true"/>
+  <file name="shop.html" crc="4176147791" mt="1406534336534" redirect="true"/>
+  <file name="visit-us.html" crc="72028072" mt="1406533759425" redirect="true"/>
+  <file name="ex1.html" crc="4084696696" mt="1406533759425" redirect="true"/>
+  <file name="ex2.html" crc="452975666" mt="1406533759426" redirect="true"/>
+  <file name="motion.html" crc="3857376980" mt="1406534502194" redirect="true"/>
+  <file name="contact.html" crc="237660686" mt="1406533759427" redirect="true"/>
+</manifest>
